@@ -2,7 +2,12 @@
 
 # Hi there, I'm Shayan Dutta 👋
 
-### 2024 - Hybernating until open source excites me. 2025 - Here we go!
+## 👨‍💻 About Me
+
+* [cite_start]🎓 **Education**: Final year Bachelor of Engineering student at **Assam Engineering College** (Graduating July 2026).
+* [cite_start]💼 **Current Role**: Software Engineer Intern at **Mealth Health Care**, where I am migrating backend infrastructure from PHP-Laravel to **Node.js** and managing **AWS** deployments[cite: 11, 12, 17, 19].
+* [cite_start]🏢 **Past Experience**: Previously interned at **XopunTech**, developing RESTful APIs with **Java Spring Boot** and building UIs with **React**[cite: 23, 24, 27].
+* [cite_start]🚀 **Interests**: Building scalable systems, exploring **AI/ML** with tools like Gemini and LangChain, and contributing to the technical growth of the **AEC Coding Club**[cite: 32, 33, 42].
 
 ---
 
