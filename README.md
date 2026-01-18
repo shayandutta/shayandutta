@@ -7,10 +7,10 @@
 
 ## 👨‍💻 About Me
 
-* [cite_start]🎓 **Education**: Pursuing Bachelor of Engineering in Electrical Engineering at **Assam Engineering College** (Graduating July 2026)[cite: 5, 14].
-* [cite_start]💼 **Current Role**: Software Engineer Intern at **Mealth Health Care**[cite: 12].
-* [cite_start]🏢 **Experience**: Technical Lead at **AEC Coding Club** (2024-2025)[cite: 42].
-* [cite_start]📍 **Location**: Guwahati, Assam, India[cite: 14].
+* 🎓 **Education**: Pursuing Bachelor of Engineering in Electrical Engineering at **Assam Engineering College** (Graduating July 2026).
+* 💼 **Current Role**: Software Engineer at **Mealth Health Care**.
+* 🏢 **Experience**: Technical Lead at **AEC Coding Club** (2024-2025).
+* 📍 **Location**: Guwahati, Assam, India.
 
 ---
 
@@ -56,21 +56,12 @@
 
 ## 💼 Experience
 
-* **Software Engineer Intern | [cite_start]Mealth Health Care** (July 2025 - Present) [cite: 16]
-    * Migrating backend infrastructure from PHP-Laravel to Node.js[cite: 17].
-    * [cite_start]Managing AWS cloud services including EC2, S3, RDS, and Lambda[cite: 19].
-* **Software Engineer Intern | XopunTech (India) Pvt. [cite_start]Ltd** (March 2025 - July 2025) [cite: 26]
-    * Developed full-stack features using Spring Boot and React.js[cite: 27].
-    * [cite_start]Implemented JWT-based authentication and Firebase integrations[cite: 28, 29].
-
----
-
-## 🚀 Projects
-
-* [cite_start]**Eco-Swachh (AI Waste Management Platform)** [cite: 32]
-    * AI-driven classification and routing using Langchain.js and Gemini Flash 2.0[cite: 33].
-* [cite_start]**E-commerce Backend** [cite: 35]
-    * [cite_start]Comprehensive REST API built with Node.js, Express, Prisma, and MySQL[cite: 35].
+* **Software Engineer  | Mealth Health Care** (July 2025 - Present) 
+    * Migrating backend infrastructure from PHP-Laravel to Node.js
+    * Managing AWS cloud services including EC2, S3, RDS, and Lambda
+* **Software Engineer Intern | XopunTech (India) Pvt. Ltd** (March 2025 - July 2025) 
+    * Developed full-stack features using Spring Boot and React.js
+    * Implemented JWT-based authentication and Firebase integrations
 
 ---
 
