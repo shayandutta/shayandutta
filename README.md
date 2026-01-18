@@ -1,4 +1,4 @@
-# Hi there, I'm Shayan Dutta 👋 
+# Hi there, I'm Shayan - aka theBackendGuy
 
 ### Software Engineer Intern | Final Year B.E. student at Assam Engineering College
 "2024 - Hybernating until open source excites me. 2025 - Here we go!"
