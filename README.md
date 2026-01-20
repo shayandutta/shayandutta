@@ -65,6 +65,7 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) 
+![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=for-the-badge&logo=workos&logoColor=white)
 
 ### Other Tools & AI:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -81,6 +82,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![VideoSDK](https://img.shields.io/badge/VideoSDK-0056FF?style=for-the-badge&logo=video&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0B72E7?style=for-the-badge&logo=razorpay&logoColor=white) 
 ![PhonePe](https://img.shields.io/badge/PhonePe-5f259f?style=for-the-badge&logo=phonepe&logoColor=white) 
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
