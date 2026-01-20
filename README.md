@@ -1,4 +1,4 @@
-# Hi there, I'm Shayan - aka badCoder
+# Hi there, I'm Shayan - aka the_noob
 
 ### Software Engineer | Final Year B.E. student at Assam Engineering College
 
