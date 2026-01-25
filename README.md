@@ -108,12 +108,5 @@
 
 ---
 
-## 📊 Github Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=shayandutta&show_icons=true&theme=dark&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayandutta&layout=compact&theme=dark&hide_border=true" height="180" />
-
----
-
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavandutta10)
