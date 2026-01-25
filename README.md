@@ -1,4 +1,4 @@
-# Hi there, I'm Shayan - aka theNoob
+# Hi there, I'm Shayan
 
 ### Software Engineer | Final Year B.E. student at Assam Engineering College
 
@@ -107,6 +107,3 @@
     * Implemented JWT-based authentication and Firebase integrations
 
 ---
-
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavandutta10)
