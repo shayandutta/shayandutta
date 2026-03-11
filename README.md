@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 **Education**: Pursuing Bachelor of Engineering in Electrical Engineering at **Assam Engineering College** (Graduating July 2026).
-* 💼 **Current Role**: Software Engineer at **Mealth Health Care**.
+* 💼 **Current Role**: Remote Software Engineer.
 * 🏢 **Experience**: Technical Lead at **AEC Coding Club** (2024-2025).
 * 📍 **Location**: Guwahati, Assam, India.
 
