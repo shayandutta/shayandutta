@@ -1,15 +1,15 @@
 # Hi there, I'm Shayan
 
-### Software Engineer | Final Year B.E. student at Assam Engineering College
+### Software Engineer @InteligenAI | B.TECH @AssamEngineeringCollege
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education**: Pursuing Bachelor of Engineering in Electrical Engineering at **Assam Engineering College** (Graduating July 2026).
-* 💼 **Current Role**: Remote Software Engineer.
-* 🏢 **Experience**: Technical Lead at **AEC Coding Club** (2024-2025).
-* 📍 **Location**: Guwahati, Assam, India.
+* 🎓 **Education**: Bachelor of Engineering in Electrical Engineering at **Assam Engineering College** (2022-26).
+* 💼 **Current Role**: SDE-1 @InteligenAI.
+* 🏢 **Experience**: Ex-SDE @Mealth (2025-26).
+* 📍 **Location**: Gurugram, India.
 
 ---
 
